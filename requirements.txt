@@ -1,0 +1,4 @@
+flask
+opencv-python
+
+python-ffmpeg-video-streaming>=0.1
